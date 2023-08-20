@@ -1,5 +1,0 @@
-ssh -p 2220 bandit7@bandit.labs.overthewire.org
-
-grep "millionth" data.txt
-
-TESKZC0XvTetK0S9xNwm25STk5iWrBvP
